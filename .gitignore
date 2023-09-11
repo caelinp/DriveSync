@@ -1,0 +1,5 @@
+# Ignore the credentials folder
+credentials/
+
+# Ignore the venv folder (Python virtual environment)
+venv/
